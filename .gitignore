@@ -1,0 +1,30 @@
+# Build directory
+build/
+
+# Downloaded repos (kas will clone these)
+poky/
+openembedded-core/
+
+# Kas cache and locks
+.kas/
+*.lock
+
+# BitBake temporary files
+*.pyc
+*.pyo
+__pycache__/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Log files
+*.log
+
+
+
+
