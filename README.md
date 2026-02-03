@@ -18,7 +18,7 @@ Follow the sequence below to clone the project, build the environment, and run t
 
 ```bash
 git clone https://github.com/Ali-Moajiz/starting-yocto
-cd starting-yocto
+cd yocto-custom-layer-project
 ```
 
 ### 2. Build the Project
